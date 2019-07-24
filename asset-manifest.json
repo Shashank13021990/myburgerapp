@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myburgerapp/static/css/main.d3426443.chunk.css",
+    "main.js": "/myburgerapp/static/js/main.453a8da3.chunk.js",
+    "main.js.map": "/myburgerapp/static/js/main.453a8da3.chunk.js.map",
+    "runtime~main.js": "/myburgerapp/static/js/runtime~main.fb1e3edd.js",
+    "runtime~main.js.map": "/myburgerapp/static/js/runtime~main.fb1e3edd.js.map",
+    "static/js/2.377a1c55.chunk.js": "/myburgerapp/static/js/2.377a1c55.chunk.js",
+    "static/js/2.377a1c55.chunk.js.map": "/myburgerapp/static/js/2.377a1c55.chunk.js.map",
+    "index.html": "/myburgerapp/index.html",
+    "precache-manifest.c3edb49adc40e4a17917331b7c0516c4.js": "/myburgerapp/precache-manifest.c3edb49adc40e4a17917331b7c0516c4.js",
+    "service-worker.js": "/myburgerapp/service-worker.js",
+    "static/css/main.d3426443.chunk.css.map": "/myburgerapp/static/css/main.d3426443.chunk.css.map",
+    "static/media/burger-logo.png": "/myburgerapp/static/media/burger-logo.b8503d26.png"
+  }
+}
